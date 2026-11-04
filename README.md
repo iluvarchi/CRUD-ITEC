@@ -6,8 +6,8 @@ Made by Amazing Grace Cabiles, Keeshia Mae Rono, and Earl Gerard Lumalang from B
 # What we used for this project
 1. XAMPP server version 3.3.0
 2. PHP version 8.2.12
-3. MYSQL
-4. MYSQL Workbench
+3. MySQL version 8.0.41
+4. MySQL Workbench
 5. NGROK
 
 # Note
