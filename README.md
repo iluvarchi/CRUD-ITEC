@@ -3,12 +3,12 @@ CRUD PHP project in ITEC 106.
 
 Made by Amazing Grace Cabiles, Keeshia Mae Rono, and Earl Gerard Lumalang from BSCS-2B.
 
-# What we used for this project
+# What we used for the project
 1. XAMPP server version 3.3.0
 2. PHP version 8.2.12
 3. MySQL version 8.0.41
-4. MySQL Workbench
-5. NGROK
+4. MySQL Workbench 8.0.41 CE
+5. NGROK 3.22.1
 
 # Note
 This is the NGROK link for this project = https://merry-drake-relevant.ngrok-free.app/crud-itec-main/ . If you wish to see the website without cloning or downloading the files then please email **0323-3534@lspu.edu.ph** 
